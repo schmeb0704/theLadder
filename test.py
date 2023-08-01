@@ -1,2 +1,2 @@
 print("hello world!")
-print("welcom to the ladder")
+print("welcome to the ladder")
