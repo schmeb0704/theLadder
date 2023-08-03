@@ -1,0 +1,9 @@
+Implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with ... (i.e., three periods).
+
+ Example:
+ user input: "welcome to my life"
+ output: "welcome...to...my...life"
+
+ hints:
+ • research split() method
+ • research join() method
