@@ -7,9 +7,9 @@
 4. If you want to:
    - ### Post a problem
      - Go to the problems folder and make a new file
-     - Naming of the file should python_exercise_(number of the exercise here).py
+     - Naming of the file should be title_of_problem.py or title_of_problem.txt 
      - The problem must have a clear expectation of what should be the output
-     - Go to the solutions folder and make a new folder called python_exercise_(number of the exercise here)_solutions so members can post answers there
+     - Go to the solutions folder and make a new folder called title_of_problem_solutions so members can post answers there
    - ### Post a solution
      - Go to the solutions folder and look for the folder for the said problem
      - Filename must be master_lastName_solution.py
