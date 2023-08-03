@@ -1,6 +1,7 @@
 # Welcome to The Ladder!
 
 ## How to contribute?
+### Watch this video for more info https://drive.google.com/file/d/1FIgjGTlgihjeaDez7md49Ldl2pqPqxu0/view?usp=sharing
 1. Clone the repo
 2. Decide whether you want to post a problem or answer a problem
 3. Make a branch so that you can edit the repo as much as you want without touching the main codebase
