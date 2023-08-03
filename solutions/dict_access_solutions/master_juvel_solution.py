@@ -12,3 +12,6 @@ student = {
         "history": 78
     }
 }
+
+student_email = student["contact"]["email"]
+print("Student Email: " + student_email)
