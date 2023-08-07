@@ -9,7 +9,6 @@ names = names_string.split(", ")
 
 
 # Write your code below this line 👇
-
 name_list = []
 name_list.append(names_string)
 
