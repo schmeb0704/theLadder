@@ -14,6 +14,6 @@ name_list.append(names_string)
 
 random_ind = random.randrange(len(names))
 random_name = names[random_ind]
-print(str(random_name) + " is going to buy the meal today!")
+print(str(random_name).title() + " is going to buy the meal today!")
 
 # Write your code above this line 👆
